@@ -417,6 +417,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/umi/proprietary/vendor/lib/vendor.display.config@1.9.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.display.config@1.9.so \
     vendor/xiaomi/umi/proprietary/vendor/lib/vendor.qti.hardware.alarm@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.alarm@1.0.so \
     vendor/xiaomi/umi/proprietary/vendor/lib/vendor.qti.hardware.audiohalext@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.audiohalext@1.0.so \
+    vendor/xiaomi/umi/proprietary/vendor/lib/vendor.qti.hardware.cacert@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.cacert@1.0.so \
     vendor/xiaomi/umi/proprietary/vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.bluetooth_sar@1.0.so \
     vendor/xiaomi/umi/proprietary/vendor/lib/vendor.qti.hardware.bluetooth_sar@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.bluetooth_sar@1.1.so \
     vendor/xiaomi/umi/proprietary/vendor/lib/vendor.qti.hardware.fm@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.fm@1.0.so \
